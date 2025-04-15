@@ -1,0 +1,9 @@
+{
+	"name": "HackatonADF",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "871526e3-7e30-4054-9f47-5ab8aac6fa79",
+		"tenantId": "cc7df247-60ce-4a0f-9d75-704cf60efc64"
+	}
+}
